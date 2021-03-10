@@ -1,5 +1,5 @@
 # Winartha.css
-a modern css that optimize your web
+Winatha.css is a modern css that optimize your site without writing any css.
 
 <h2>Creators</h2>
 <p>Fatih Winartha</p>
